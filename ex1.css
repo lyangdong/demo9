@@ -1,0 +1,19 @@
+.box{
+   display: none;
+}
+.btn{
+    position: relative;
+    height: 20px;
+    display: block;
+    margin-top: 20px;
+    width:40%;
+    text-align: left;
+}
+.btn img{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.bottom{
+    display: none;
+}
